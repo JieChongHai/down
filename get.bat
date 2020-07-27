@@ -1,0 +1,1 @@
+code --list-extensions --show-versions > extend.txt
